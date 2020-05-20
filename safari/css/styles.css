@@ -1,0 +1,6 @@
+body {
+    background-image: url("../images/safari.jpeg"), url("../images/safari2.jpeg"),
+    url("../images/safari3.jpeg/"), url("../images/safari4.jpeg");
+    background-repeat: no-repeat;
+    background-color: #cccccc;
+  }
